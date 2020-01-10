@@ -1,2 +1,2 @@
 # Xcode-DeviceSupport
-## 最新13.2
+## 支持8.0~13.2
