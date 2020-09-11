@@ -1,2 +1,2 @@
 # Xcode-DeviceSupport
-## 支持8.0~13.6
+## 支持8.0~13.7
