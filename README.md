@@ -5,4 +5,4 @@
 /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/DeviceSupport
 ```
 
-# 注意：14.0必须用在Xcode 12以上版本，不要问为什么。
+# 注意：14.0以上开发包必须用在Xcode 12以上版本，不要问为什么。
