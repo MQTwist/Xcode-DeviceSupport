@@ -1,5 +1,5 @@
 # Xcode-DeviceSupport
-## 支持8.0~14.3
+## 支持8.0~14.4
 ## 使用: Finder->前往->前往文件夹
 ```
 /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/DeviceSupport
